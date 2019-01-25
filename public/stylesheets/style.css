@@ -1,0 +1,17 @@
+body {
+    font-family: "Avenir Next", "Avenir", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    padding: 5em 3em;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    opacity: 0.6;
+}
+h5 {
+    opacity: 0.6;
+}
+.btn:focus,.btn:active:focus,.btn.active:focus,
+.btn.focus,.btn:active.focus,.btn.active.focus {
+    outline: none;
+    box-shadow:none;
+}
